@@ -1,16 +1,14 @@
-### Hi there 👋
+### gm
 
-<!--
-**nodemadic/nodemadic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student currently grounding myself in my fundamentals to look for my next opportunity in early summer 2022. 
 
-Here are some ideas to get you started:
+I've been recently obsessed with digging into the Cosmos ecosystem and the potential that IBC brings to the crypto community, but I am not a maximalist. Feel free to reach out to me for any type of project or if you have any suggestions for things that I should be learning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are all the ways you can reach me:
+
+- Add me on [Discord](https://discordapp.com/users/925582738466172969)
+- Check out my [Twitter](https://twitter.com/nodemadic)
+- Message me on [Telegram](https://t.me/nodemadic)
+- Email me at nodemadic@gmail.com
+
+Let's build something :)
