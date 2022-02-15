@@ -4,6 +4,15 @@ I'm a software engineering student currently grounding myself in my fundamentals
 
 I've been recently obsessed with digging into the Cosmos ecosystem and the potential that IBC brings to the crypto community, but I am not a maximalist. Feel free to reach out to me for any type of project or if you have any suggestions for things that I should be learning. 
 
+Some topics that I love to research and discuss:
+- Habits
+- Free will
+- Morality
+- Incentive allignment
+- Role of governance
+- Health
+- Media consumption
+
 Here are all the ways you can reach me:
 
 - Add me on [Discord](https://discordapp.com/users/925582738466172969)
