@@ -2,7 +2,7 @@
 
 I'm a self studying software engineer currently grounding myself in my fundamentals to look for my next opportunity in early summer 2022. 
 
-I am currently building a portfolio project with Solidity to fractionalize ownership of real estate with an ERC20 token model. The goal is not to start my own company with it, but to use the project to learn various aspects of writing Solidity and a front end to pair with it.
+I am currently building a portfolio project with Solidity to fractionalize ownership of a revenue generating asset with an ERC20 token model. The goal is not to start my own company with it, but to use the project to learn various aspects of writing Solidity and a front end to pair with it.
 
 Very interested in the [Cosmos](https://cosmos.network/) ecosystem and the potential that [IBC](https://ibcprotocol.org/) brings to the crypto community, but I am not a maximalist. Feel free to reach out to me for any type of project or if you have any suggestions for things that I should be learning. 
 
